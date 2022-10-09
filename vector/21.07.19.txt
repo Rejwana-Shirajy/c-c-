@@ -1,0 +1,39 @@
+syntax:
+	vector<data_type> vector_names;
+	
+Commonly Used Functions:
+
+push_back() - It adds a new element at the end.
+	vector_name.push_back(value);
+	
+size() - It returns the size of the vector
+	int x= v.size();
+	
+at() - IT provides a reference to an element.
+
+	v.at(index);
+
+back() - It returns the last element
+	v.back();
+
+front() - v.front()
+
+pop_back() - It removes the last element from a vector
+		
+		v.pop_back();
+		
+empty() - It determines whether the vector is empty or not
+		v.empty();
+		It returns 1 if the vector is empty
+		
+		
+		
+		
+		
+
+	
+	
+	
+	
+	
+	
